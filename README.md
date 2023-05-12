@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iván Acosta</h1>
 <h3 align="center"> Sr. Solution Architect | Cloud Architect AWS-OCI-AZR-GCP | Cloud Management | Analytics | Data Lover & Learning Lover</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iacosta&label=Profile%20views&color=0e75b6&style=flat" alt="iacosta" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=iacosta&label=Profile%20views&color=0e75b6&style=flat" alt="iacosta" /> </p>
 
 - 🔭 I’m currently working on **Podman and Ansible Demo Environments**
 
@@ -13,7 +13,12 @@
 
 - 📄 Know about my experiences [https://acostacontreras.com/](https://acostacontreras.com/)
 
-<p><img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></p>
+<div align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="GIF" width="500" height="320" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=iacosta&show_icons=true&theme=gotham" alt="iacosta" />
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -22,7 +27,7 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iacosta&show_icons=true&theme=gotham" alt="iacosta" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,4 +38,4 @@
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://bmc.link/idarioacosh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
