@@ -11,7 +11,7 @@
 
 <p align="left">📫 How to reach me: <a href="mailto:ivan@acostacontreras.com">ivan@acostacontreras.com</a></p>
 
-<p align="center">📄 Know about my experiences <a href="https://acostacontreras.com/">here</a></p>
+<p align="left">📄 Know about my experiences <a href="https://acostacontreras.com/">here</a></p>
 
 <div align="center">
   <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="GIF" width="500" height="320" />
