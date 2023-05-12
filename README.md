@@ -3,13 +3,13 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=iacosta&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-<p align="center">🔭 I’m currently working on <strong>Podman and Ansible Demo Environments</strong></p>
+<p align="left">🔭 I’m currently working on <strong>Podman and Ansible Demo Environments</strong></p>
 
-<p align="center">🌱 I’m currently learning <strong>Podman, Ansible, OpenShift, and AWS</strong></p>
+<p align="left">🌱 I’m currently learning <strong>Podman, Ansible, OpenShift, and AWS</strong></p>
 
-<p align="center">💬 Ask me about <strong>Databases and Deploy Infrastructure</strong></p>
+<p align="left">💬 Ask me about <strong>Databases and Deploy Infrastructure</strong></p>
 
-<p align="center">📫 How to reach me: <a href="mailto:ivan@acostacontreras.com">ivan@acostacontreras.com</a></p>
+<p align="left">📫 How to reach me: <a href="mailto:ivan@acostacontreras.com">ivan@acostacontreras.com</a></p>
 
 <p align="center">📄 Know about my experiences <a href="https://acostacontreras.com/">here</a></p>
 
