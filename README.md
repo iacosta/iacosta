@@ -22,7 +22,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,bash,vim,gcp,aws,azure,vim,ansible,openshift,linux,r,graphql,mysql,sqlite,postgres,py,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,bash,vim,gcp,aws,azure,vim,ansible,openshift,linux,r,graphql,mysql,sqlite,postgres,py,vscode,podman" />
   </a>
 </p>
 
